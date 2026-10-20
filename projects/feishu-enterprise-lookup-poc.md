@@ -20,6 +20,4 @@ The project specification describes a workflow that would:
 
 These are documented design requirements; they should not be read as confirmation that every step was implemented or validated.
 
-## Scope
 
-This page records the project and its current POC evidence. The implementation source was not located in the local project folders, so this page does not include source code. No account credentials, company lookup results, or Feishu screenshots are published here.
