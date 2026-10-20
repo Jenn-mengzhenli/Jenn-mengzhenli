@@ -13,6 +13,7 @@ My undergraduate research focused on control algorithms and simulation for a dua
 ## Selected work
 
 - [UAV control research and publication](https://jenn-mengzhenli.github.io/research.html#publication)
+- [Feishu enterprise lookup bot (OpenClaw POC)](projects/feishu-enterprise-lookup-poc.md)
 - [UE5 game project](https://jenn-mengzhenli.github.io/projects.html#selected-projects)
 
 ## Tools
